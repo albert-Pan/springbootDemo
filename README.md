@@ -5,3 +5,5 @@
 **demo3:** spring boot 和  quartz 集成 
 
 **demo4:** spring boot 和 	Shiro 整合  
+
+**demo5:** spring boot 和 发送邮件 
