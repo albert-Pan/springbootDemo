@@ -8,4 +8,4 @@
 
 **demo5:** spring boot 和 发送邮件 
 
-**demo5:** spring boot 数据库读写多数据源配置 
+**demo6:** spring boot 数据库读写多数据源配置 
